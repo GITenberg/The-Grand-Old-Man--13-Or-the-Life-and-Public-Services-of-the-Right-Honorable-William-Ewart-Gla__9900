@@ -1,10 +1,8 @@
 _repo: The-Grand-Old-Man--13-Or-the-Life-and-Public-Services-of-the-Right-Honorable-William-Ewart-Gla__9900
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 9900/9900-h/images/title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cook, Richard B. (Richard Briscoe)
@@ -15,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3195
     wikipedia: http://en.wikipedia.org/wiki/Richard_B._Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9900#The-Grand-Old-Man--13-Or-the-Life-and-Public-Services-of-the-Right-Honorable-William-Ewart-Gla_
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
